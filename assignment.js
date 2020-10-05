@@ -95,8 +95,3 @@ const names = ["Karim","Rahim", "Jodoi", "Modu"];
 console.log(tinyFriend(names))
 //If input : "Karim","Rahim", "Jodoi", "Modu"
 // So Output will be :  "Modu"
-
-
-
-
-# assignment
